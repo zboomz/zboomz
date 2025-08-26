@@ -1,8 +1,8 @@
 ## 👋 About Me
-Hi, I'm Jaebeom Kim, an undergraduate student passionate about discovering and solving real-world problems through data.
+Hi, I'm Jaebeom Kim, an undergraduate student in Industrial Engineering with a joint major in Artificial Intelligence.
+I am passionate about understanding complex systems and designing data- and optimization-driven solutions that create real-world impact.
 
-I enjoy exploring diverse types of data — from time series and images to natural language — to uncover patterns and build solutions.  
-I am highly motivated by the challenge of translating complex, real-world problems into data-driven models, and I strive to grow continuously as both a developer and a researcher.
+My academic and project experiences span from modeling and analyzing dynamic systems to developing algorithms for decision-making under uncertainty. I am motivated by the challenge of bridging theory and practice—transforming ideas into solutions that are not only technically sound but also practically valuable.
 
 ---
 
@@ -15,11 +15,15 @@ Python
 PyTorch (deep learning modeling), Scikit-learn (machine learning pipeline), Pandas & NumPy (data wrangling), Matplotlib (data visualization)
 
 **Fields of Interest**
+- Optimization & Operations Research (scheduling, combinatorial optimization, dynamic optimization)
 - Data Mining & Analysis
-- Time Series Forecasting
 - Reinforcement Learning (e.g., decision-making under uncertainty)
-- Computer Vision (e.g., image classification, object detection)
-- Natural Language Processing (NLP) (e.g., sentiment analysis, topic modeling)
+- Computer Vision (detection, restoration, robustness)
+
+
+## 🌱 What I Value
+I enjoy tackling problems that require both analytical rigor and creativity.
+Whether it is analyzing data, formulating optimization models, or designing AI-driven algorithms, I strive to balance theoretical depth with practical applicability.
 
 
 ---
