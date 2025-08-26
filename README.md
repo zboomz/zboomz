@@ -17,6 +17,7 @@ PyTorch (deep learning modeling), Scikit-learn (machine learning pipeline), Pand
 **Fields of Interest**
 - Optimization & Operations Research (scheduling, combinatorial optimization, dynamic optimization)
 - Data Mining & Analysis
+- Time Series Analysis & Forecasting (anomaly detection, predictive modeling)
 - Reinforcement Learning (e.g., decision-making under uncertainty)
 - Computer Vision (detection, restoration, robustness)
 
